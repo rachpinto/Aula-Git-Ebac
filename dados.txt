@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Rachel 
+-Profissão: Fisioterapeuta
+-Cidade: Rio de Janeiro
+-O que faz nas horas vaga: Jogo Board game e assisto séries e filmes
+-Feedback sobre o curso Qualidade de Software: Curso bastante dinâmico e didático, professor bastante atencioso.
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma prática e intuitiva, porém se tivesse um app mobile seria ótimo pra ter um controle mais proximo das aulas finalizadas e tarefas e poder asitir as aulas em qualquer lugar.
+
+Obrigado!!!
+
+
